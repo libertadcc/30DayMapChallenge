@@ -4,3 +4,6 @@
 
 ## Day 2 - Lines
 ![Day2](./images/Day2of30MapChallenge.png)
+
+## Day 3 - Plygons
+![Day3](./images/Day3of30MapChallenge.png)
