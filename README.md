@@ -1,1 +1,2 @@
-"# 30DayMapChallenge" 
+# #30DayMapChallenge
+## Day 1 - Points
