@@ -9,8 +9,11 @@
 ![Day3](./images/Day3of30MapChallenge.png)
 
 ## Day 4 - Hexagons
+![Day4](./images/Day4of30MapChallenge.png)
 
 ## Day 5 - Data challenge 1: OpenStreetMap
+![Day5](./images/Day5of30MapChallenge.png)
+
 ## Day 6 - Red
 ## Day 7 - Green
 ## Day 8 - Blue
