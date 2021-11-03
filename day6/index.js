@@ -25,13 +25,13 @@ const view = new MapView({
 
 
 const ccaaLayer = new FeatureLayer({
-    url: "https://services1.arcgis.com/YFraetVkEAF1lMag/arcgis/rest/services/Violencia_machista/FeatureServer/0",
+    url: "https://services1.arcgis.com/YFraetVkEAF1lMag/arcgis/rest/services/Violencia_machista_2003_2021/FeatureServer/0",
     popupTemplate: {
         title: "Víctimas en {CCAA}",
         content: [
             {
                 type: "text", // TextContentElement
-                text: "<p style='text-align:center'>Entre los años 2012 y 2021 han sido asesinadas <b>{Total} mujeres</b> a manos de su pareja o expareja.</p>"
+                text: "<p style='text-align:center'>Entre los años 2003 y 2021 han sido asesinadas <b>{Total} mujeres</b> a manos de su pareja o expareja.</p>"
             },
             {
                 // Column chart
@@ -42,7 +42,7 @@ const ccaaLayer = new FeatureLayer({
                         type: "column-chart",
                         caption: "",
                         value: {
-                            fields: ["F2012", "F2013", "F2014", "F2015", "F2016", "F2017", "F2018", "F2019", "F2020", "F2021"],
+                            fields: ["F2003", "F2004", "F2005", "F2006", "F2007", "F2008", "F2009", "F2010", "F2011", "F2012", "F2013", "F2014", "F2015", "F2016", "F2017", "F2018", "F2019", "F2020", "F2021"],
                             normalizeField: null,
                         }
                     },
@@ -53,6 +53,42 @@ const ccaaLayer = new FeatureLayer({
                 // Tabla
                 type: "fields", // FieldsContentElement
                 fieldInfos: [
+                    {
+                        fieldName: "F2003",
+                        label: "2003"
+                    },
+                    {
+                        fieldName: "F2004",
+                        label: "2004"
+                    },
+                    {
+                        fieldName: "F2005",
+                        label: "2005"
+                    },
+                    {
+                        fieldName: "F2006",
+                        label: "2006"
+                    },
+                    {
+                        fieldName: "F2007",
+                        label: "2007"
+                    },
+                    {
+                        fieldName: "F2008",
+                        label: "2008"
+                    },
+                    {
+                        fieldName: "F2009",
+                        label: "2009"
+                    },
+                    {
+                        fieldName: "F2010",
+                        label: "2010"
+                    },
+                    {
+                        fieldName: "F2011",
+                        label: "2011"
+                    },
                     {
                         fieldName: "F2012",
                         label: "2012"
@@ -107,7 +143,7 @@ view.when(() => {
         view: view,
         layerInfos: [{
             layer: ccaaLayer,
-            title: "Víctimas de la violencia machista en España (2012-2021)"
+            title: "Víctimas de la violencia machista en España (2003-2021)"
         }]
     });
 
