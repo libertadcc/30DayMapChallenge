@@ -15,6 +15,8 @@
 ![Day5](./images/Day5of30MapChallenge.png)
 
 ## Day 6 - Red
+![Day6](./images/Day6of30MapChallenge.png)
+
 ## Day 7 - Green
 ## Day 8 - Blue
 ## Day 9 - Monochrome
