@@ -18,7 +18,11 @@
 ![Day6](./images/Day6of30MapChallenge.png)
 
 ## Day 7 - Green
+![Day7](./images/Day7of30MapChallenge.png)
+
 ## Day 8 - Blue
+![Day8](./images/Day8of30MapChallenge.png)
+
 ## Day 9 - Monochrome
 ## Day 10 - Raster
 ## Day 11 - 3D
