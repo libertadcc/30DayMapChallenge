@@ -28,6 +28,8 @@
 
 ## Day 10 - Raster
 ## Day 11 - 3D
+![Day11](./images/Day11of30MapChallenge.png)
+
 ## Day 12 - Population
 ## Day 13 - Data challenge 2: Natural Earth
 ## Day 14 - Map with a new tool
