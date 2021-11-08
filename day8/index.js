@@ -1,7 +1,6 @@
 import Map from "https://js.arcgis.com/4.21/@arcgis/core/Map.js";
 import MapView from "https://js.arcgis.com/4.21/@arcgis/core/views/MapView.js";
 import FeatureLayer from "https://js.arcgis.com/4.21/@arcgis/core/layers/FeatureLayer.js";
-import WFSLayer from "https://js.arcgis.com/4.21/@arcgis/core/layers/WFSLayer.js";
 import esriConfig from 'https://js.arcgis.com/4.21/@arcgis/core/config.js';
 import Legend from "https://js.arcgis.com/4.20/@arcgis/core/widgets/Legend.js";
 

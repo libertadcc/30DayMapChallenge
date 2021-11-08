@@ -24,6 +24,8 @@
 ![Day8](./images/Day8of30MapChallenge.png)
 
 ## Day 9 - Monochrome
+![Day9](./images/Day9of30MapChallenge.png)
+
 ## Day 10 - Raster
 ## Day 11 - 3D
 ## Day 12 - Population
