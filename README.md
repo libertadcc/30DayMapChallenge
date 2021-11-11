@@ -31,6 +31,8 @@
 ![Day11](./images/Day11of30MapChallenge.png)
 
 ## Day 12 - Population
+![Day12](./images/Day12of30MapChallenge.png)
+
 ## Day 13 - Data challenge 2: Natural Earth
 ## Day 14 - Map with a new tool
 ## Day 15 - Map made without a computer
