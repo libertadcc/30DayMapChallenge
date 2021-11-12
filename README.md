@@ -1,4 +1,6 @@
 # #30DayMapChallenge
+![Reto](./images/30MapChallenge.png)
+
 ## Day 1 - Points
 ![Day1](./images/Day1of30MapChallenge.png)
 
@@ -34,6 +36,8 @@
 ![Day12](./images/Day12of30MapChallenge.png)
 
 ## Day 13 - Data challenge 2: Natural Earth
+![Day13](./images/Day13of30MapChallenge.png)
+
 ## Day 14 - Map with a new tool
 ## Day 15 - Map made without a computer
 ## Day 16 - Urban/rural
